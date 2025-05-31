@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "npm run build && gh-pages -d dist",
-    "homepage": "https://JesseJohn7.github.io/Step",
+    "homepage": "https://JesseJohn7.github.io/Step"
   },
   "dependencies": {
     "react": "^19.1.0",
